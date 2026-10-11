@@ -38,7 +38,6 @@ Then pick an option from the menu:
 ## Future ideas
 - Custom file names for saved QR codes
 - Barcode support
-- Morse code and cipher tools
 
 ## Author
-Built by sriramchandra-67 as a first-year project while learning Python and Git.
+Built by sriramchandra-67 with basic Python.
